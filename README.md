@@ -1,0 +1,1 @@
+Explore a collection of diverse data analysis projects in this repository, showcasing my proficiency in extracting valuable insights from raw data to inform strategic decision-making and solve real-world problems.
